@@ -9,7 +9,6 @@
 
 <script setup lang="ts">
 defineProps({
-  // typeeees
   type: {
     type: String,
     default: 'primary',
@@ -25,4 +24,3 @@ defineProps({
   }
 });
 </script>
-
